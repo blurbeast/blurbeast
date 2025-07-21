@@ -49,8 +49,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=blurbeast&theme=transparent&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=blurbeast&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" 
+    alt="blurbeast's GitHub Stats" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=blurbeast&theme=github-dark&hide_border=true&border_radius=12" 
+    alt="blurbeast's GitHub Streak" 
+    width="48%" 
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=blurbeast&theme=github-compact&hide_border=true&radius=12" 
+    alt="blurbeast's Contribution Graph" 
+  />
+</p>
+
 
 ---
 
