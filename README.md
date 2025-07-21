@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm blurbeast</h1>
 
 <p align="center">
-  <strong>Software Developer | Rustacean | Tech Innovator</strong> <br/>
-  <em>Building the future, one line of code at a time.</em>
+  <strong>Software Developer | Programmer | Tech Innovator</strong> <br/>
+  <em>Building the future.</em>
 </p>
 
 ---
@@ -15,16 +15,12 @@
 
 ## 🛠️ Skills & Technologies
 
-<div align="center">
-
-| Language | Proficiency |
-|----------|-------------|
+| Language / Tech | Proficiency |
+|------------------|-------------|
 | 🦀 **Rust**        | ⚡⚡⚡⚡⚡ |
-| ☕ **Java**        | ⚡⚡⚡⚡ |
-| 💻 **TypeScript** | ⚡⚡⚡⚡ |
-| 🔗 **Solidity**    | ⚡⚡⚡ |
-
-</div>
+| ☕ **Java**        | ⚡⚡⚡⚡⚡ |
+| 💻 **TypeScript** | ⚡⚡⚡⚡⚡ |
+| 🔗 **Solidity**    | ⚡⚡⚡⚡⚡ |
 
 ---
 
@@ -42,15 +38,17 @@
   <a href="https://x.com/dleexes" target="_blank">
     <img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="X / Twitter"/>
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/oladele-banjo-553b65b1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats (Optional)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blurbeast&show_icons=true&theme=transparent&hide_title=true&hide_border=true" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=blurbeast&theme=transparent&hide_border=true" />
 </p>
 
