@@ -15,8 +15,6 @@ I'm passionate about innovation and believe in changing the world through tech c
 ## 🔗 Social
 - [X (formerly Twitter)](https://x.com/dleexes)
 
-## 🎨 Preferred Theme
-Minimal, professional
 
 ---
 
